@@ -1,0 +1,21 @@
+{
+  "name": "cs454-project1-pounds-to-kg",
+  "version": "1.0.0",
+  "description": "REST API service to convert pounds to kilograms deployed on AWS EC2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simran KC",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
