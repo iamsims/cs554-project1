@@ -1,4 +1,4 @@
-# Design Document - CS 454 Project 1
+# Design Document - CS 454/554 Project 1
 
 ## System Architecture
 
