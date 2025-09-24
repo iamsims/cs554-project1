@@ -1,6 +1,3 @@
-readme.md
-
-
 # CS 554 Project 1 - EC2 REST Service: Pounds → Kilograms
 
 A REST API service deployed on AWS EC2 that converts pounds to kilograms with proper error handling and service management.
