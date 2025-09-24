@@ -6,6 +6,15 @@ readme.md
 A REST API service deployed on AWS EC2 that converts pounds to kilograms with proper error handling and service management.
 
 
+## Deliverables Checklist 
+
+- [x] Git repository (GitHub/GitLab) with source code, README, and a short DESIGN.md (1–2 pages)
+- [x] README with setup steps (install, run, test), and curl examples.
+- [x] Screenshot(s) of a successful request using curl: In screenshots.pdf
+- [x] Public endpoint: https://simran-cs544hw.duckdns.org/convert
+- [x] IP/DNS (include Security Group rule summary) – In screenshots.pdf, README.md and DESIGN.md
+
+
 ## Quick Demo
 
 **Primary HTTPS Endpoint (Extra Credit):**
@@ -205,5 +214,4 @@ University of Alabama in Huntsville
 
 - **GitHub**: https://github.com/iamsims/cs554-project1
 - **Live API**: https://simran-cs544hw.duckdns.org/convert
-
 
